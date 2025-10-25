@@ -1,0 +1,90 @@
+{
+    "personal_info": {
+        "name": "Syeda Qurrath UI Ain",
+        "title": "Full-Stack Developer",
+        "email": "qurrath2809@gmail.com",
+        "phone": "+91 9741940080",
+        "location": "Bangalore, India",
+        "linkedin": "https://www.linkedin.com/in/syeda-qurrath282",
+        "github": "https://github.com/syedaqurrath",
+        "summary": "Detail-oriented and self-driven full-stack developer with a solid foundation in computer science and hands-on experience building real-world projects using the MERN stack. Skilled in developing responsive web apps, REST APIs, and authentication systems."
+    },
+    "education": [
+        {
+            "degree": "Master of Computer Applications",
+            "institution": "Presidency University",
+            "period": "Pursuing",
+            "score": "CGPA: 8.5"
+        },
+        {
+            "degree": "Bachelor of Computer Applications",
+            "institution": "Bapuji Institute of Engineering and Technology",
+            "period": "2021-24",
+            "score": "CGPA: 8.9"
+        }
+    ],
+    "skills": {
+        "languages": ["Java", "Python", "JavaScript", "HTML/CSS"],
+        "frameworks": ["React", "Node.js", "Express", "Flask"],
+        "databases": ["MongoDB", "MySQL"],
+        "tools": ["Git", "GitHub", "Postman", "MongoDB Compass", "Netlify"]
+    },
+    "projects": [
+        {
+            "title": "SHIELD - Harassment Reporting Platform",
+            "description": "Secure web platform for reporting harassment cases with evidence submission and admin review system",
+            "technologies": ["MERN Stack", "SMS Integration"],
+            "github_url": "https://github.com/syedaqurrath/shield"
+        },
+        {
+            "title": "React Multi-Factor Authentication System",
+            "description": "Secure authentication system with email and OTP-based two-factor authentication",
+            "technologies": ["React", "Node.js", "Passport.js"],
+            "github_url": "https://github.com/syedaqurrath/REACT-Nodejs-MFA"
+        },
+        {
+            "title": "Invoice/Billing Manager",
+            "description": "Full-stack MERN application for managing client invoices, billing records, and payments with CRUD operations",
+            "technologies": ["MERN Stack", "React", "Node.js", "MongoDB"],
+            "github_url": "https://github.com/syedaqurrath/Invoice"
+        },
+        {
+            "title": "Crypto Currency Tracker",
+            "description": "Real-time cryptocurrency price tracking application with interactive charts and portfolio management",
+            "technologies": ["JavaScript", "React", "API Integration"],
+            "github_url": "https://github.com/syedaqurrath/Crypto-currency-tracker"
+        },
+        {
+            "title": "Toxic Comment Detector",
+            "description": "AI-powered system for detecting and filtering toxic comments using machine learning algorithms",
+            "technologies": ["Python", "Machine Learning", "NLP"],
+            "github_url": "https://github.com/syedaqurrath/Toxic-comment-detector"
+        },
+        {
+            "title": "Chat Bot",
+            "description": "Intelligent conversational AI chatbot with natural language processing capabilities",
+            "technologies": ["JavaScript", "Node.js", "AI/ML"],
+            "github_url": "https://github.com/syedaqurrath/Chat-Bot"
+        }
+    ],
+    "experiences": [
+        {
+            "title": "GSOC Participant",
+            "organization": "Google Summer of Code",
+            "period": "2025",
+            "description": "Contributed to open-source projects, collaborating with international developers."
+        },
+        {
+            "title": "Hackathon Participant",
+            "organization": "Various Hackathons",
+            "period": "2024-2025",
+            "description": "Developed innovative solutions under time constraints, showcasing problem-solving skills."
+        }
+    ],
+    "certifications": [
+        "TCSION CareerEdge – Young Professional by TCS",
+        "JavaScript Certification",
+        "OOPS in Java Certification",
+        "Python Certification"
+    ]
+}
